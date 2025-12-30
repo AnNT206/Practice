@@ -1,2 +1,2 @@
-# basic-front-end
-A few basic web design exercises
+# Front-end
+learn front-end
